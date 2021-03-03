@@ -1,3 +1,5 @@
+![screenshot](https://github.com/some-yummy-nick/react-ts-todo/blob/master/react-ts-todo.png)
+
 https://some-yummy-react-ts-todo.netlify.app/
 
 # Getting Started with Create React App
